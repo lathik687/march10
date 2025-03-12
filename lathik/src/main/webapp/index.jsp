@@ -1,5 +1,5 @@
 :<html>
 <body>
-<h2><%= "Hello snp!" %></h2>
+<h2><%= "this is the line from github!" %></h2>
 </body>
 </html>
